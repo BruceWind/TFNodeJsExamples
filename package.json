@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "tfnodejsexamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.2.0",
+    "@tensorflow/tfjs-node": "^4.2.0",
+    "@tensorflow/tfjs-node-gpu": "^4.2.0",
+    "@tensorflow/tfjs-tflite": "^0.0.1-alpha.9",
+    "cross-blob": "^3.0.2",
+    "tfjs-tflite-node": "^0.0.2"
+  }
+}
